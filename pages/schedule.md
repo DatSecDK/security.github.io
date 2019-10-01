@@ -64,7 +64,7 @@
 
 | Monday | Tuesday |               Wednesday               | Thursday | Friday |
 | ------ | :-----: | :-----------------------------------: | -------: | -----: |
-|        |         | <strong>Class:</strong> 08:30 - 12:00 |          |        |
+|        | <strong>Speak:</strong> 16:00 - 20:00 | <strong>Class:</strong> 08:30 - 12:00 |          |        |
 |        |         |      <strong>Room:</strong> 2.60      |          |        |
 
 <br>
